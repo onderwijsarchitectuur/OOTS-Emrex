@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence exchange"
+    id="EAID_3DEC6160_D4B7_4580_B4B5_695C6E2987C0">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User"
+    id="EAID_E7E5F907_39F6_4a6b_96B0_FFF9B162194F">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>
