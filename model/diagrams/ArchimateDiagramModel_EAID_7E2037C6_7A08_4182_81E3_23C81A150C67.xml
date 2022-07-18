@@ -56,6 +56,9 @@
           lineColor="#696969"
           source="EAID_DN000000_4E58_45cc_81F7_CF3AEEB5E6D4"
           target="EAID_DN000000_CE87_4dec_A69F_D2BB68672405">
+        <features
+            name="labelExpression"
+            value="read"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_EAID_374FB8B7_2F1C_4e4c_B79B_1712AD3378F4.xml#EAID_374FB8B7_2F1C_4e4c_B79B_1712AD3378F4"/>
@@ -100,6 +103,9 @@
           lineColor="#696969"
           source="EAID_DN000000_5BE7_442d_94F6_5B6A8C9D902B"
           target="EAID_DN000000_4130_4a08_9206_C2DE5E0338DE">
+        <features
+            name="labelExpression"
+            value="write"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_EAID_772A90F7_9DDB_4572_96C9_59B431B86B3B.xml#EAID_772A90F7_9DDB_4572_96C9_59B431B86B3B"/>
