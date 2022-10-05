@@ -1,5 +1,7 @@
 # OOTS-Emrex
 
+(noot: dit model kan worden ingeladen en eventueel bewerkt met coArchi: https://github.com/archimatetool/archi-modelrepository-plugin)
+
 In Europees verband wordt langs meerdere pade nagedacht op het bevorderen van studentmobiliteit. 
 
 1. Emrex
@@ -20,4 +22,4 @@ Dit lijkt in hoofdlijnen op dat van een webwinkel en een bank. De klant bestelt 
 
 Stel dat een Nederlander zich digitaal inschrijft voor een opleiding in het hoger onderwijs in een ander land. Hij of zij is actief in de aanmeldapplicatie van de onderwijsinstelling. Gewenste input: vooropleidingen. Emrex stelt een open source plugin voor de aanmeldapplicatie beschikbaar die geïntegreerd kan worden met de aanmeldapplicatie. De plugin ondersteunt het opzoeken van de diplomaprovider (DUO!) en de redirect naar duo.nl.  Na inloggen met DigiD kan de persoon zijn diploma’s inzien en na een expliciet akkoord (consent) wordt dit digitaal ondertekend en verstuurd naar de onderwijsinstelling. Achteraf kan DUO aantonen dat toestemming is gegeven (eis AVG art 7.1). 
 
-Het webwinkelpatroon kan worden toegepast voor alle typen bewijsstukken. Naast diploma’s  gaat het de EU in eerste instantie over werkervaring, kentekenregistraties, inkomens en gegevens van de bevolkingsadministratie. In plaats van iedere bronhouder apart te laten aansluiten kan het handig zijn om daarvoor een nationaal overheidsportaal te gebruiken.  Met op de achtergrond een realtime verbinding tussen het portaal en de bronhouders. Een nationaal portaal betekent niet dat alle gegevens fysiek in één database zitten.  
+Het webwinkelpatroon kan worden toegepast voor alle typen bewijsstukken. Naast diploma’s  gaat het de EU in eerste instantie over werkervaring, kentekenregistraties, inkomens en gegevens van de bevolkingsadministratie. In plaats van iedere bronhouder apart te laten aansluiten kan het handig zijn om daarvoor een nationaal overheidsportaal te gebruiken.  Met op de achtergrond een realtime verbinding tussen het portaal en de bronhouders. Een nationaal portaal betekent niet dat alle gegevens fysiek in één database zitten.
