@@ -14,7 +14,7 @@ In 2022 wordt door de EU en Emrex overlegd over synergie en wordt aan een samenw
 
 Schematisch zit het uitwisselingspatroon van Emrex er zo uit;
 
-https://github.com/onderwijsarchitectuur/OOTS-Emrex/blob/master/OOTS-Emrex.png
+![Emrex](https://github.com/onderwijsarchitectuur/OOTS-Emrex/blob/master/OOTS-Emrex.png)
 
 Dit lijkt in hoofdlijnen op dat van een webwinkel en een bank. De klant bestelt een product in een webwinkel en wordt dan doorgeleid (redirect) naar een bank. Vervolgens geeft de klant, na te zijn ingelogd, een opdracht aan de bank om geld over te maken. Het is niet de webwinkel die de betaalopdracht geeft maar de klant zelf. Na de betaling wordt  de klant teruggeleid naar de webwinkel. Het idee van “preview en consent” is ingebakken in Emrex.
 
