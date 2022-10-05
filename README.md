@@ -3,15 +3,18 @@
 In Europees verband wordt langs meerdere pade nagedacht op het bevorderen van studentmobiliteit. 
 
 1. Emrex
+   
    Emrex is meteen community met (vrijwillige) deelname uit 10+ lidstaten tot stand gekomen met financiering van de EU  voor grensoverstijgende uitwisseling van diploma’s (algemener onderwijsresultaten).  DUO stelt via dit netwerk 10 miljoen Nederlandse diploma’s ter beschikking, niet aan overheden of scholen, maar aan de diplomahouder zelf, die volledige regie heeft  over wat met wie wordt gedeeld. 
    
 2. Once Only Technical System (OOTS)
+   
    OOTS is een communicatieprotocol ontwikkeld door de EU voor grensoverstijgende verkeer. Niet alleen voor diploma's maar voor een groot aantal bewijstukken die relevant zijn voor 21 publieke procedures. In juni 2022 is deze standaard wettelijk verplicht gesteld voor digitale uitwisseling in een Implementing Act. Deze act stelt ook preview en consent centraal en noemt Emrex als voorbeeld van een sectoraal systeem om mee samen te werken.
 
 In 2022 wordt door de EU en Emrex overlegd over synergie en wordt aan een samenwerkingsarchitectuur gewerkt. Deze repository maakt daar van deel uit. 
 
 Schematisch zit het uitwisselingspatroon van Emrex er zo uit;
 
+https://github.com/onderwijsarchitectuur/OOTS-Emrex/blob/master/OOTS-Emrex.png
 
 Dit lijkt in hoofdlijnen op dat van een webwinkel en een bank. De klant bestelt een product in een webwinkel en wordt dan doorgeleid (redirect) naar een bank. Vervolgens geeft de klant, na te zijn ingelogd, een opdracht aan de bank om geld over te maken. Het is niet de webwinkel die de betaalopdracht geeft maar de klant zelf. Na de betaling wordt  de klant teruggeleid naar de webwinkel. Het idee van “preview en consent” is ingebakken in Emrex.
 
