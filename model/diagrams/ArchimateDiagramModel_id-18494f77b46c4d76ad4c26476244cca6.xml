@@ -126,7 +126,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2b7e7a88d3fc43cba4bbb85ea26b7464"
-      targetConnections="id-80e42c4f25934b038a71a17c0e78a13e">
+      targetConnections="id-80e42c4f25934b038a71a17c0e78a13e"
+      type="1">
     <bounds
         x="288"
         y="695"
@@ -139,7 +140,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6a2b05536d4d49df8cc3871b46fa3eef"
-      targetConnections="id-04b65e1811ef4948a10b1cc68cd59d5d">
+      targetConnections="id-04b65e1811ef4948a10b1cc68cd59d5d"
+      type="1">
     <bounds
         x="460"
         y="694"
@@ -188,7 +190,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-033359ecae994ca1aa8579cfdf30b228"
-      targetConnections="id-02d9cd93aa8141b48cf8f3cb2c1c0ed0">
+      targetConnections="id-02d9cd93aa8141b48cf8f3cb2c1c0ed0"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c603ad1d60954416a254cf0fc2172307"
@@ -209,7 +212,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-14a751d94b514e83a6f5f90a034151ce">
+      id="id-14a751d94b514e83a6f5f90a034151ce"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4d814204e2194c4988b81ee5a6b6276f"
@@ -386,7 +390,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0bf5bd44516948adb8d0fbe010aa801e">
+      id="id-0bf5bd44516948adb8d0fbe010aa801e"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-02d9cd93aa8141b48cf8f3cb2c1c0ed0"
@@ -408,7 +413,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ece4943ce7da4a50ac025ce8e51e8464"
-      targetConnections="id-96ca0a0907e64edfbcc8422b875fa1b8">
+      targetConnections="id-96ca0a0907e64edfbcc8422b875fa1b8"
+      type="1">
     <bounds
         x="372"
         y="372"
