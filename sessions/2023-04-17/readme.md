@@ -2,6 +2,7 @@
 
 Opening 
 
+* Agenda:  See presentation in folder
 * Present: Michael Lieferath, Guido Bacherach, Gerald Groot Roessink
 * Declined: Tor Fridell, Jan Joost Norder, Geir Vangen
 *	Next meeting will be rescheduled because it’s a holiday in several countries
