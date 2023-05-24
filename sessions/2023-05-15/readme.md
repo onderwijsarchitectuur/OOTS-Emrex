@@ -25,4 +25,5 @@ What else?
 *  Pim in Lead Architect of OOTS being created by Directorate General (DG) Digit
 *  DG Digit is providing building blocks door DG Grow (From the Single Digital Gateway Regulation, SDGR) 
 *  DG EAC is about education. Should they have a role in organizing this?
-*  Emrex is very interested in joining a projectathon.
+*  Emrex is interested in joining a projectathon.
+*  Next preparation:   discussing the bridge flow proposal made by Pim (see sessions-folder)
